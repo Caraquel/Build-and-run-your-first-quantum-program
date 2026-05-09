@@ -1,6 +1,6 @@
 # Build and Run Your First Quantum Program
 # Work  in progress
-## source : https://quantum.cloud.ibm.com/learning/en/courses/use-a-qc-today
+# source : https://quantum.cloud.ibm.com/learning/en/courses/use-a-qc-today
 # Use a quantum computer today
 
 Hands-on IBM Quantum/Qiskit training material for learners who want to move from the basics of quantum computing to running their first quantum programs with Qiskit.
@@ -39,7 +39,10 @@ The course notebooks are in the [`Original`](Original) folder.
 
 Recommended environment:
 
-- Python 3.10 or later
+- Python: 3.12.2
+- qiskit: 2.2.3
+- qiskit-aer: 0.17.2
+- qiskit-ibm-runtime: 0.41.1
 - JupyterLab or Jupyter Notebook
 - An IBM Quantum account for hardware/runtime execution
 
