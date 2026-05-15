@@ -27,13 +27,13 @@ The course introduces:
 
 The course notebooks are in the [`Original`](Original) folder.
 
-| Notebook | Focus |
-| --- | --- |
-| [`quantum-computing-context.ipynb`](Original/quantum-computing-context.ipynb) | Quantum computing applications, scaling challenges, error correction versus error mitigation, and core system components. |
-| [`quantum-mechanics-basics.ipynb`](Original/quantum-mechanics-basics.ipynb) | Mathematical and physical ideas behind qubits, states, gates, and Bell-state circuits. |
-| [`build-and-run-your-first-quantum-program.ipynb`](Original/build-and-run-your-first-quantum-program.ipynb) | A practical "Hello World" quantum circuit workflow using Qiskit, local simulation, and IBM Quantum execution. |
-| [`your-first-quantum-experiment.ipynb`](Original/your-first-quantum-experiment.ipynb) | A guided experiment using Qiskit primitives to estimate the energy of a two-spin Ising system. |
-| [`continue-your-learning-journey.ipynb`](Original/continue-your-learning-journey.ipynb) | Follow-up learning path and next steps. |
+| Lesson | Notebook | IBM Quantum course page |
+| --- | --- | --- |
+| Notebook 1, Lesson 1 | [`build-and-run-your-first-quantum-program.ipynb`](Original/build-and-run-your-first-quantum-program.ipynb) | [Build and run your first quantum program](https://quantum.cloud.ibm.com/learning/en/courses/use-a-qc-today/build-and-run-your-first-quantum-program) |
+| Notebook 2, Lesson 2 | [`quantum-mechanics-basics.ipynb`](Original/quantum-mechanics-basics.ipynb) | [Quantum mechanics basics](https://quantum.cloud.ibm.com/learning/en/courses/use-a-qc-today/quantum-mechanics-basics) |
+| Notebook 3, Lesson 3 | [`your-first-quantum-experiment.ipynb`](Original/your-first-quantum-experiment.ipynb) | [Your first quantum experiment](https://quantum.cloud.ibm.com/learning/en/courses/use-a-qc-today/your-first-quantum-experiment) |
+| Notebook 4, Lesson 4 | [`quantum-computing-context.ipynb`](Original/quantum-computing-context.ipynb) | [Quantum computing context](https://quantum.cloud.ibm.com/learning/en/courses/use-a-qc-today/quantum-computing-context) |
+| Additional resource | [`continue-your-learning-journey.ipynb`](Original/continue-your-learning-journey.ipynb) | Continue your learning journey |
 
 ## Prerequisites
 
@@ -69,10 +69,10 @@ jupyter notebook
 
 Suggested order:
 
-1. `quantum-computing-context.ipynb`
+1. `build-and-run-your-first-quantum-program.ipynb`
 2. `quantum-mechanics-basics.ipynb`
-3. `build-and-run-your-first-quantum-program.ipynb`
-4. `your-first-quantum-experiment.ipynb`
+3. `your-first-quantum-experiment.ipynb`
+4. `quantum-computing-context.ipynb`
 5. `continue-your-learning-journey.ipynb`
 
 ## IBM Quantum Setup
