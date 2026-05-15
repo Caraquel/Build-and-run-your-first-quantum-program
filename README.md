@@ -7,7 +7,7 @@ Hands-on IBM Quantum/Qiskit training material for learners who want to move from
 
 **Author:** Carlos Araque  
 **Title:** IBM Qiskit Advocate  
-**Research:** [KentryOps Quantum Research](https://kentryops.com/quantum-research)
+
 
 ## Course Overview
 
