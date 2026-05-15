@@ -27,13 +27,13 @@ The course introduces:
 
 The course notebooks are in the [`Original`](Original) folder.
 
-| Lesson | Notebook | IBM Quantum course page |
-| --- | --- | --- |
-| Notebook 1, Lesson 1 | [`build-and-run-your-first-quantum-program.ipynb`](Original/build-and-run-your-first-quantum-program.ipynb) | [Build and run your first quantum program](https://quantum.cloud.ibm.com/learning/en/courses/use-a-qc-today/build-and-run-your-first-quantum-program) |
-| Notebook 2, Lesson 2 | [`quantum-mechanics-basics.ipynb`](Original/quantum-mechanics-basics.ipynb) | [Quantum mechanics basics](https://quantum.cloud.ibm.com/learning/en/courses/use-a-qc-today/quantum-mechanics-basics) |
-| Notebook 3, Lesson 3 | [`your-first-quantum-experiment.ipynb`](Original/your-first-quantum-experiment.ipynb) | [Your first quantum experiment](https://quantum.cloud.ibm.com/learning/en/courses/use-a-qc-today/your-first-quantum-experiment) |
-| Notebook 4, Lesson 4 | [`quantum-computing-context.ipynb`](Original/quantum-computing-context.ipynb) | [Quantum computing context](https://quantum.cloud.ibm.com/learning/en/courses/use-a-qc-today/quantum-computing-context) |
-| Additional resource | [`continue-your-learning-journey.ipynb`](Original/continue-your-learning-journey.ipynb) | Continue your learning journey |
+| # | Topic | Notebook | IBM page |
+| --- | --- | --- | --- |
+| 1 | First quantum program | [Open](Original/build-and-run-your-first-quantum-program.ipynb) | [View](https://quantum.cloud.ibm.com/learning/en/courses/use-a-qc-today/build-and-run-your-first-quantum-program) |
+| 2 | Quantum mechanics basics | [Open](Original/quantum-mechanics-basics.ipynb) | [View](https://quantum.cloud.ibm.com/learning/en/courses/use-a-qc-today/quantum-mechanics-basics) |
+| 3 | First quantum experiment | [Open](Original/your-first-quantum-experiment.ipynb) | [View](https://quantum.cloud.ibm.com/learning/en/courses/use-a-qc-today/your-first-quantum-experiment) |
+| 4 | Quantum computing context | [Open](Original/quantum-computing-context.ipynb) | [View](https://quantum.cloud.ibm.com/learning/en/courses/use-a-qc-today/quantum-computing-context) |
+| Extra | Continue learning | [Open](Original/continue-your-learning-journey.ipynb) | - |
 
 ## Prerequisites
 
